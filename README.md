@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm **Achmad Faqih Suyudi**.
+
+I'm currently learning **Mobile Development**. 
+
+
 <!--
 **FaqihS/FaqihS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
